@@ -46,4 +46,4 @@ If you want to customize your build, such as adding a new webpack loader or plug
 
 After you run the `npm run build` command, your code will be built into a single bundle located at `dist/bundle.min.js` along with any other assets you project depended. 
 
-If you put the contents of the `dist` folder in a publicly-accessible location (say something like `http://sanketcodes.com`), you should be able to open `http://sanketcodes.com/index.html` and play your game.
+If you put the contents of the `dist` folder in a publicly-accessible location (say something like `https://www.snktcodes.com`), you should be able to open `https://www.snktcodes.com/index.html` and play your game.
