@@ -38,4 +38,10 @@ module.exports = {
       template: './index.html',
     }),
   ],
+  devServer: {
+    // host: '192.168.0.111',
+    host: '192.168.1.4',
+    historyApiFallback: true,
+    quiet: true
+}
 }
